@@ -2,11 +2,11 @@
 
 Я начинающий разработчик из Новосибирска, студент ФПМИ НГТУ.  
 Изучаю и применяю на практике веб-технологии: JavaScript, TypeScript, React, HTML/CSS.  
-Также работаю с C++, базами данных (**MongoDB**, PostgreSQL**) и **Git.
+Также работаю с C++, базами данных (MongoDB, PostgreSQL**) и Git.
 
 - Создаю pet-проекты, почти готов собственный сайт
-- Хочу развиваться как frontend или fullstack разработчик
-- Готов к удалённой работе (до 6 часов в день через 2 недели)
+- Хочу развиваться как backend или fullstack разработчик
+- Готов к удалённой работе (до 6 часов в день)
 
 Технологии, с которыми я работаю:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
